@@ -11,7 +11,7 @@
 > ```
 > I recommend editing in a new window, so you can see quiz at the same time.
 >
-> Compared to homework, GitHub won't give you the answer to MC. We will discuss later.
+> Compared to homework, the autograder won't give you the keys to MC. We will discuss later.
 
 Good luck! 🤞
 
