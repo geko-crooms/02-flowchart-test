@@ -31,7 +31,7 @@ Good luck! 🤞
    1. Process
    1. Terminal 
 
-1. You're asked to design a flowchart for this process: "You are cutting a piece of string with length `string_length` into equal pieces of `piece_length`. Output `piece_count`, how many pieces you can cut.".
+1. You are cutting a piece of string with length `string_length` into equal pieces of `piece_length`. Output `piece_count`, which stores how many pieces you can cut.
 
    ```mermaid
    flowchart LR
