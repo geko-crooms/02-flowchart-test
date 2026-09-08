@@ -1,5 +1,7 @@
 # 02 flowchart test
 
+(15 min)
+
 ## MC 
 
 > [!IMPORTANT]
