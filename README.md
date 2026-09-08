@@ -1,4 +1,4 @@
-# 01 flowchart test
+# 02 flowchart test
 
 ## MC 
 
@@ -57,25 +57,26 @@ Good luck! 🤞
    4. The flowchart is wrong, because `piece_count` must be defined in a condition to *decide* how many pieces (`piece_count`) we get. 
 ---
 
-## Draw flowcharts:
+## Draw flowchart:
 
 > [!IMPORTANT]
-> Upload files as:
+> Upload file as:
 > ```
 > flowchart1.svg
-> flowchart2.svg
-> flowchart3.svg
 > ```
 > You can also use other image formats.
 
+<!--
 1. You are preparing tea. Use no decisions.
 
    Boil water in a kettle. Put a tea bag into a cup. Pour the boiled water into the cup. Wait 3 minutes for the tea to steep. Remove the tea bag.
+-->
 
-1. You are coding a keypad-based access control check for your dormitory door.
+1. You are coding a keypad-based access control check for your door.
 
-   Input 4 digits from the keypad one by one. Then compare it with `PIN`. If correct, unlock the door and output Access granted. Otherwise, keep the door locked and output Access denied and go back.
+   Input 4 digits `digit1`, `digit2`, etc from the keypad one by one. Then compare it with `PIN`. If correct, unlock the door, output `Access granted`, and lock the door again after 5 seconds. Otherwise, keep the door locked and output `Access denied`. Go back to the PIN check after both cases.
 
+<!--
 1. You are programming an automated plant-watering system that checks on the garden once per day, indefinitely.
 
    As long as there is a next day, do the following:
@@ -86,3 +87,4 @@ Good luck! 🤞
          - Otherwise, do not water.
      - Otherwise (nighttime), keep the pump off and skip the moisture check entirely.
    - Move on to the next day.
+-->
