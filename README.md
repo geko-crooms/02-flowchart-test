@@ -20,9 +20,9 @@ Good luck! 🤞
 1. A condition block has usually how many flowlines going out of it?
 
    1. One, representing the next step.
-   1. Two, for the "true" and "false"
-   1. Three, for the "true", "false", and "unknown"
-   1. It depends on the number of variables defined in the condition
+   2. Two, for the "true" and "false"
+   3. Three, for the "true", "false", and "unknown"
+   4. It depends on the number of variables defined in the condition
 
 1. If we want to input two variables and output their sum in a flowchart, which of the following to we typically use?
 
@@ -31,7 +31,9 @@ Good luck! 🤞
    1. Process
    1. Terminal 
 
-1. You are cutting a piece of string with length `string_length` into equal pieces of `piece_length`. Output `piece_count`, which stores how many pieces you can cut.
+1. You have the following process description and the corresponding flowchart.
+
+   > You are cutting a piece of string with length `string_length` into equal pieces of `piece_length`. Output `piece_count`, which stores how many pieces you can cut.
 
    ```mermaid
    flowchart LR
@@ -53,7 +55,7 @@ Good luck! 🤞
     Output --> End
    ```
 
-   Which of the following statements is/are correct?
+   Which of the following statements is/are correct for the process description and flowchart?
    
    1. The flowchart is wrong, because flowcharts cannot loop back to an earlier decision block.
    2. The flowchart is partially correct, because it outputs the (how many pieces you can cut)+1.
