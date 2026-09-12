@@ -1,6 +1,6 @@
-# 02 flowchart test
+# Flowchart test
 
-(15 min)
+(20 min)
 
 ## MC 
 
